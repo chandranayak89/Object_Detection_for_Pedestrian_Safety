@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object Detection for Pedestrian Safety
 
 A machine vision project for real-time pedestrian detection to improve safety in autonomous vehicles and smart surveillance systems.
@@ -78,3 +79,6 @@ For testing, you can use public pedestrian datasets:
 - Custom YOLOv8 model trained on specialized pedestrian datasets
 - Integration with LIDAR or stereo vision for accurate distance measurement
 - Edge AI deployment on devices like NVIDIA Jetson Nano 
+=======
+# Object_Detection_for_Pedestrian_Safety
+>>>>>>> 22add91e8885c1f0f943cc73285c96fea1d5ffb2
